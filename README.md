@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smejkdo
+- 👋 Hi, I’m Dominik Šmejkal
 - 👀 I’m interested in machine learning, artificial intelligence, deep learning and big data
 - 🌱 I’m currently learning CUDA C++ and algorithmic game theory
 
